@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SimuVibration</string>
+    <string name="menu_settings">设置</string>
+     <string name="A">服务器</string>
+    <string name="B">客户机</string>
+    <string name="C">传感器</string>
+    <string name="xyz">XYZ:</string>
+    
+    <string name="use_time">用\t时</string>
+    <string name="distance">行 程</string>
+    <string name="calories">热 量</string>
+    <string name="velocity">速 度</string>
+    <string name="zero">0</string>
+    <string name="double_zero">0.0</string>
+    <string name="calories_zero">0.0</string>
+    <string name="velocity_zero">0.0</string>
+    <string name="km">m</string>
+    <string name="calorie">卡路里</string>
+    <string name="kilometer_per_hour">m/s</string>
+    <string name="start">开始</string>
+    <string name="pause">暂停</string>
+    <string name="cancel">清零</string>
+    <string name="daily">今日累积</string>
+    <string name="image_star">image_star</string>
+    <string name="sunday">星期天</string>
+    <string name="monday">星期一</string>
+    <string name="tuesday">星期二</string>
+    <string name="wednesday">星期三</string>
+    <string name="thursday">星期四</string>
+    <string name="friday">星期五</string>
+    <string name="saturday">星期六</string>
+    <string name="month">月\t</string>
+    <string name="day">日</string>
+    <string name="todo">TODO</string>
+    <string name="information">说明</string>
+    <string name="settings_title">设置</string>
+    <string name="amplitude">振幅：</string>
+    <string name="low">低</string>
+    <string name="high">高</string>
+    <string name="amplitude_info">振幅越大，振动的值域越大。不过有很多手机无法设置.</string>
+    <string name="vibra_time">振动时间:</string>
+    <string name="cm">毫秒</string>
+    <string name="vibra_time_info">为时间越长，振动时间越长</string>
+  
+    <string name="save">保存</string>
+    <string name="cancle">取消</string>
+    <string name="title_activity_start">StartActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+</resources>

@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "E:\\android\\SimuVibration-as\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\start_red.png",
+        "source": "E:\\android\\SimuVibration-as\\app\\src\\main\\res\\drawable\\start_red.png"
+    },
+    {
+        "merged": "E:\\android\\SimuVibration-as\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\start_background.png",
+        "source": "E:\\android\\SimuVibration-as\\app\\src\\main\\res\\drawable\\start_background.png"
+    },
+    {
+        "merged": "E:\\android\\SimuVibration-as\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\run.png",
+        "source": "E:\\android\\SimuVibration-as\\app\\src\\main\\res\\drawable\\run.png"
+    },
+    {
+        "merged": "E:\\android\\SimuVibration-as\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "E:\\android\\SimuVibration-as\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\android\\SimuVibration-as\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape.xml",
+        "source": "E:\\android\\SimuVibration-as\\app\\src\\main\\res\\drawable\\shape.xml"
+    },
+    {
+        "merged": "E:\\android\\SimuVibration-as\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gif.gif",
+        "source": "E:\\android\\SimuVibration-as\\app\\src\\main\\res\\drawable\\gif.gif"
+    },
+    {
+        "merged": "E:\\android\\SimuVibration-as\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_bg.xml",
+        "source": "E:\\android\\SimuVibration-as\\app\\src\\main\\res\\drawable\\btn_bg.xml"
+    },
+    {
+        "merged": "E:\\android\\SimuVibration-as\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\walk_gif.gif",
+        "source": "E:\\android\\SimuVibration-as\\app\\src\\main\\res\\drawable\\walk_gif.gif"
+    },
+    {
+        "merged": "E:\\android\\SimuVibration-as\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\start_green.png",
+        "source": "E:\\android\\SimuVibration-as\\app\\src\\main\\res\\drawable\\start_green.png"
+    },
+    {
+        "merged": "E:\\android\\SimuVibration-as\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\run_gif.gif",
+        "source": "E:\\android\\SimuVibration-as\\app\\src\\main\\res\\drawable\\run_gif.gif"
+    },
+    {
+        "merged": "E:\\android\\SimuVibration-as\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\walk.png",
+        "source": "E:\\android\\SimuVibration-as\\app\\src\\main\\res\\drawable\\walk.png"
+    }
+]

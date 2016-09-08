@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.cms.simuvibration"
+    android:versionCode="1"
+    android:versionName="1.0">
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="18" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.cms.simuvibration.SettingsActivity"></activity>
+        <activity android:name="com.cms.simuvibration.ControlActivity"></activity>
+        <activity android:name="com.cms.simuvibration.ClientBlueTeethActvity"></activity>
+        <activity android:name="com.cms.simuvibration.VibraActivity"></activity>
+        <activity android:name="com.cms.simuvibration.ServerBlueTeethActivity"></activity>
+
+        <service android:name="com.cms.util.SersorService"></service>
+        <service android:name="com.cms.util.BlueteethService"></service>
+        <service android:name="com.cms.util.SocketService"></service>
+
+        <!--<receiver android:name="com.cms.util.SocketService$MyServiceReceiver">-->
+            <!--<intent-filter>-->
+                <!--<action android:name="com.cms.util.SocketService" />-->
+            <!--</intent-filter>-->
+        <!--</receiver>-->
+    </application>
+
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.hardware.sensor.accelerometer" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_MULTICAST_STATE" />
+
+
+</manifest>
